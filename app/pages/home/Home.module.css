@@ -1,13 +1,13 @@
 /* Home.module.css */
 .background {
-    background-image: url('/computer.jpg'); /* Path relative to the public folder */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh; /* Adjust the height as needed */
-    width: 100%; /* Adjust the width as needed */
-  }
-  
+  background-image: url('/computer.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 60px; /* Padding equal to Navbar's height */
+  height: 100vh;
+  width: 100%;
+}
 
 
 
