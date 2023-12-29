@@ -20,7 +20,7 @@ export default function SimplePage() {
       <div className=" ml-[205px] mt-[32px]">
         <h3 className=" text-green-500 text-2x font-bold mb-3 ">EASE OF USE</h3>
         <div className=" text-white text-sm">
-          <p>LegitDoc's simple SaaS </p>
+          <p>LegitDoc&apos;s simple SaaS </p>
           <p>experience allows clients to </p>
           <p>issue documents on-chain,  </p>
           <p>without having to learn</p>
@@ -88,7 +88,7 @@ export default function SimplePage() {
         <h3 >INSTANT VERIFICATION</h3>
         </div>
         <div className=" text-white text-sm">
-        <p>10 seconds. That's all it takes </p>
+        <p>10 seconds. That&apos;s all it takes </p>
           <p>to verify any document</p>
           <p>using LegitDoc. Seriously! </p>
         </div>
