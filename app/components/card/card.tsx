@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 
 
@@ -12,7 +13,7 @@ export default function Card(){
            <div className="overflow-hidden rounded bg-white text-slate-500 shadow-md shadow-slate-200">
         {/*  <!-- Image --> */}
         <figure className="relative">
-          <img
+          <Image
             src="https://picsum.photos/id/100/800/600"
             alt="card image"
             className="aspect-video w-full"
