@@ -20,7 +20,7 @@ export default function Page(){
       <section><SimplePage></SimplePage></section>
       <section><Document></Document></section>
       <section className="bg-[#655DBB]"><SuccessFullImp></SuccessFullImp></section>
-      <section className="bg-[#655DBB]"></section>
+      {/* <section className="bg-[#655DBB]"></section> */}
       <section><News></News></section>
       <section><Footer></Footer></section>
       <section></section>
