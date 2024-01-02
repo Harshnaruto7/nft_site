@@ -23,9 +23,10 @@ export default function CompanyTest() {
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
+        className=""
       ></iframe>
       </div>
-      <div className=" text-center mt-[72px] text-5xl font-bold ">
+      <div className=" text-center mt-[72px] lg:text-5xl lg:font-bold sm:text-xl  sm:font-extrabold  ">
         <h2>Trusted by global enterprises and governments</h2>
       </div>
       <div>
