@@ -12,7 +12,7 @@ export default function SuccessFullImp() {
 
     <div>
       <div> <h1 className=" text-center text-white text-4xl font-bold pt-[78px]">Successful implementations by LegitDoc</h1>
-        <div className=" mt-[41px] ml-[158px]">
+        <div className=" lg:mt-[41px] lg:ml-[158px] mt-[-19px] ml-[-572px]">
         <div className="float-left  text-white ml-[336px]  ">
             <h1 className="text-lg ml-[31px]">Use Case</h1>
             <h1 className="text-9xl font-extrabold">01</h1>
@@ -29,7 +29,7 @@ export default function SuccessFullImp() {
         </div>
 
         <div>
-        <div className=" mt-[41px] ml-[158px]">
+        <div className=" lg:mt-[41px] lg:ml-[158px]  mt-[-19px] ml-[-572px] ">
         <div className="float-left  text-white ml-[336px]  ">
             <h1 className="text-lg ml-[31px]">Use Case</h1>
             <h1 className="text-9xl font-extrabold">02</h1>
