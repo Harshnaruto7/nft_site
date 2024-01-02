@@ -1,0 +1,48 @@
+.responsiveIframe{
+    width: 560px; 
+  height: 315px; 
+
+}
+
+@media screen and (max-width: 600px) {
+
+
+    .responsiveIframe{
+        width: 315px; 
+      height: 239px; 
+    
+    }
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

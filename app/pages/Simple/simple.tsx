@@ -18,7 +18,7 @@ export default function SimplePage() {
 
       {/* left  side text  */}
       <div className=" ml-[205px] mt-[32px]">
-        <h3 className=" text-green-500 text-2x font-bold mb-3 ">EASE OF USE</h3>
+        <h3 className=" text-green-500 lg:text-2x lg:font-bold text-lg font-light mb-3 ">EASE OF USE</h3>
         <div className=" text-white text-sm">
           <p>LegitDoc&apos;s simple SaaS </p>
           <p>experience allows clients to </p>

@@ -16,8 +16,8 @@ export default function Document() {
 
         <div>
             <h1 className="text-center font-bold text-4xl mt-[89px]">A Legit document is the best kind of document</h1>
-            <div className="ml-[135px] mt-[120px]">
-                <table>
+            <div className="ml-[135px] mt-[120px] overflow-x-auto">
+                <table className="w-full max-w-[800px] mx-auto">
                     <tr >
                         <th className=" px-2 pb-[48px]"></th>
                         <th className=" px-2 font-bold text-red-500 text-2xl pb-[48px] ">Paper Document</th>
