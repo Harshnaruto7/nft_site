@@ -12,16 +12,22 @@ export default function Footer() {
 
 
         <div>
+            <div  className="lg:ml-[0px] lg:mt-[0px] ml-[-2047px] mt-[879px]">
             <Image
                 src="/newSmallImg.jpg"
                 alt="Description of the image"
                 width={500}
                 height={300}
                 layout="responsive"
+               
             />
 
 
-            <div className="mt-[-213px] ml-[120px]">
+            </div>
+           
+
+
+            <div className="lg:mt-[-213px] lg:ml-[120px] ml-[8px] mt-[-321px] ">
                 <div className="text-white text-3xl font-extrabold">
                     <h1>Issue and verify credentials</h1>
                     <h1>instantly on blockchain with</h1>

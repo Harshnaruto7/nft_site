@@ -23,7 +23,7 @@ export default function News(){
                 
             </div>
 
-            <div className="mt-[0px] ml-[-232px]">
+            <div className="lg:mt-[0px] lg:ml-[-232px] ml-[-665px]">
                 <div className=" flex mt-[21px] ml-[666px]">
                     <span className="bg-red-500 text-lg font-bold p-[41px]"><p className=" border-4 border-black">YOURSTORY</p></span>
                     <span className="bg-[#FAEED1] text-lg font-bold p-[32px]">
