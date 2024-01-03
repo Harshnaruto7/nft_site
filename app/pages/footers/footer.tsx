@@ -94,16 +94,16 @@ export default function Footer() {
               
               {/* last footer */}
             <div className="bg-red-600 py-[61px] mt-[244px]">
-                <h1 className="ml-[170px] text-6xl font-extrabold text-white">ZUPPLE</h1>
+                <h1 className="lg:ml-[170px] lg:mt-[0px] ml-[11px] mt-[11px] lg:text-6xl lg:font-extrabold text-2xl font-bold text-white">ZUPPLE</h1>
             </div>
             <div className="ml-[15px] mt-[-102px]">
-                <p className="ml-[402px] text-sm text-white font-light">“Unpuzzle the new web”</p>
+                <p className="lg:ml-[402px] lg:mt-[0px] ml-[-9px] mt-[50px]  text-sm text-white font-light">“Unpuzzle the new web”</p>
             </div>
 
 
 
             <div>
-            <div className="mt-[-29px] " >
+            <div className="mt-[-29px]  " >
                 <a href="#" className="ml-[1222px] mt-[-107px] text-lg text-white font-bold hover:underline">FAQs</a>
             </div>
             <div  className="mt-[-29px] ml-[909px]">
@@ -111,7 +111,7 @@ export default function Footer() {
             </div>
             </div>
             <div>
-                <h1 className="text-2xl font-bold ml-[45px] mt-[167px]">© 2022 Zupple Labs - All Rights Reserved.</h1>
+                <h1 className="lg:text-2xl lg:font-bold lg:ml-[45px] lg:mt-[167px] text-lg font-bold ml-[45px] mt-[167px] ">© 2022 Zupple Labs - All Rights Reserved.</h1>
             </div>
             
 
