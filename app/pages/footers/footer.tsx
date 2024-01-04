@@ -43,7 +43,7 @@ export default function Footer() {
                 {/* Card component 1 */}
                 <div>
                     <div>
-                        <div className="max-w-sm rounded overflow-hidden shadow-lg bg-purple-600 mt-[65px] ml-[390px]  ">
+                        <div className="max-w-sm rounded overflow-hidden shadow-lg bg-purple-600 ml-[3px] lg:mt-[65px] lg:ml-[390px]  ">
                             <div className="px-6 py-4">
                                 <div className="font-bold text-3xl mb-2 text-white py-5">
                                     <h1>LegitDoc</h1>
@@ -67,7 +67,7 @@ export default function Footer() {
                 </div>
                  {/* Card component 2*/}
                  <div>
-                    <div className="mt-[-303px] ml-[815px]">
+                    <div className=" lg:mt-[-303px] lg:ml-[815px] ml-[4px] mt-[52px]">
                         <div className="max-w-sm rounded overflow-hidden shadow-lg bg-red-500  ">
                             <div className="px-6 py-4">
                                 <div className="font-bold text-3xl mb-2 text-white py-5">
