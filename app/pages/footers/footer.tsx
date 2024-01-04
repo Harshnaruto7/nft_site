@@ -38,7 +38,7 @@ export default function Footer() {
                 </div>
             </div>
             <div>
-                <h1 className="text-black px-10 mt-[119px] ml-[384px] text-4xl font-extrabold">The Zupple suite of products and services</h1>
+                <h1 className="text-black px-10 lg:mt-[119px] lg:ml-[384px] mt-[694px] ml-[-23px] text-4xl font-extrabold">The Zupple suite of products and services</h1>
 
                 {/* Card component 1 */}
                 <div>
@@ -104,10 +104,10 @@ export default function Footer() {
 
             <div>
             <div className="mt-[-29px]  " >
-                <a href="#" className="ml-[1222px] mt-[-107px] text-lg text-white font-bold hover:underline">FAQs</a>
+                <a href="#" className="lg:ml-[1222px] lg:mt-[-107px] ml-[210px] mt-[-116px] text-lg lg:text-white text-black font-bold hover:underline">FAQs</a>
             </div>
             <div  className="mt-[-29px] ml-[909px]">
-                <a href="#" className="ml-[450px] mt-[-102px] text-lg text-white font-bold hover:underlines">Blogs</a>
+                <a href="#" className="lg:ml-[450px] lg:mt-[-102px] mt-[-110px] ml-[-631px] text-lg lg:text-white text-black font-bold hover:underlines">Blogs</a>
             </div>
             </div>
             <div>
